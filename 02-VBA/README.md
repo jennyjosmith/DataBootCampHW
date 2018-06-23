@@ -1,4 +1,4 @@
-# Unit 2 | Assignment - The VBA of Wall Street
+# Unit 2 | Assignment - The VBA (or Wolf) of Wall Street
 
 ### Background
 
